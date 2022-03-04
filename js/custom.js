@@ -2,9 +2,9 @@ $(document).ready(function() {
 
 
     //Preload
-    $(window).on('load', function() {
-        $('#preLoder').fadeOut(1000);
-    })
+    //$(window).on('load', function() {
+    //$('#preLoder').fadeOut(1000);
+    //})
 
 
 
