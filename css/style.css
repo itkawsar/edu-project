@@ -10,7 +10,7 @@
         body {
             font-family: 'Poppins', sans-serif;
         }
-        
+        /*
         #preLoder {
             position: fixed;
             width: 100%;
@@ -41,6 +41,7 @@
                 transform: rotate(360deg);
             }
         }
+        */
         /*Main Header*/
         
         #main-header {
